@@ -40,7 +40,7 @@ the patched image:
     
     Parameters:
        -v: version to build
-           Choose one of: 12.1.0.2, 12.2.0.1
+           Choose one of: 12.1.0.2, 12.2.0.1 19.3.0
        -e: creates a patched image based on 'Enterprise Edition'
        -s: creates a patched image based on 'Standard Edition 2'
        -p: patch label to be used for the tag
